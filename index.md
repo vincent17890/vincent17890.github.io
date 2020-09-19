@@ -1,0 +1,2 @@
+# About Me
+I am Pei-Ming (Vincent) Chen. I am a Phd Student in Behavioral Marketing at Haas School of Business, UC Berkeley. I am interested in applying natural language processing tools to study various consumer and social trends.
