@@ -16,10 +16,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a PhD candidate in Marketing at the Haas School of Business, UC Berkeley.
+I am a PhD Candidate in Behavioral Marketing at Haas School of Business, UC Berkeley.​ Previously, I earned a B.S.E in Electrical Engineering and a B.S. in Mathematics from National Taiwan University.
 
-My research focuses on how language and memory shape consumer behavior, leveraging interdisciplinary methodologies including natural language processing, machine learning, and behavioral studies. So far I have explored questions such as: How can we measure the evolving consumer perception of brands when the descriptors themselves are also changing in meaning? How does similarity between source and targets affect consumer spending? Does false memory of product attributes affect consumer evaluation of products and other downstream decisions?
-
-Previously, I received my bachelor’s degree with a double major in Electrical Engineering and Mathematics from National Taiwan University.
+I study consumer cognition, focusing on knowledge and memory in dynamic environments, with applications in branding and financial decision-making. My research examines how brand meaning evolves over time, how similarity and categorization influence consumer spending, and how false memories and communication cues affect brand judgments. These projects are unified by a core interest in how consumers’ mental representations guide judgment and behavior. Drawing on my background in mathematics and natural language processing (NLP), I integrate behavioral experiments, NLP methods, and cognitive theory to investigate how subtle shifts in language, context, and memory systematically influence perception and decision-making.
 
 Get in touch at [vincentpmchen@berkeley.edu](mailto:vincentpmchen@berkeley.edu)
