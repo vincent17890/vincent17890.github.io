@@ -45,13 +45,6 @@
           {% for page in site.pages %}
             {% if page.permalink == '/' %} {% assign about_title = page.title %} {% endif %}
           {% endfor %}
-          <!-- Custom CV Link -->
-          <li class="nav-item">
-            <a class="nav-link" href="{{ '/assets/pdf/cv.pdf' | relative_url }}" target="_blank">
-              CV
-            </a>
-          </li>
-
           <!-- About -->
           <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
             <a class="nav-link" href="{{ '/' | relative_url }}">
@@ -123,6 +116,14 @@
               {% endif %}
             {% endif %}
           {% endfor %}
+
+          <!-- Custom CV Link -->
+          <li class="nav-item">
+            <a class="nav-link" href="{{ '/assets/pdf/cv.pdf' | relative_url }}" target="_blank">
+              CV
+            </a>
+          </li>
+
           {% if site.search_enabled %}
             <!-- Search -->
             <li class="nav-item">
