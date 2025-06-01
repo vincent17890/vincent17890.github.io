@@ -1,14 +1,14 @@
 ---
 layout: page
 permalink: /research/
-title: Selected Abstracts
+title: Research
 description:
 nav: true
 nav_order: 2
 ---
 ___
 
-**“How brand perception (really) changes over time: Decomposing real from nominal changes using time-aware natural language processing”** **Vincent Chen**, Ming Hsu, and Zhihao Zhang
+**“How brand perception (really) changes over time: Decomposing real from nominal changes using time-aware natural language processing”** **Vincent Chen**, Ming Hsu, and Zhihao Zhang (Job Market Paper)
 
 Consumer perceptions of brands are rarely static. Consequently, successful branding demands timely and accurate tracking of the evolving dynamics of how consumers perceive brands. While measuring brand perception has long been a standard practice for marketers, a less recognized challenge of brand tracking is that the language describing attributes of brands—such as how Social a brand is—can itself change over time. In this paper, we propose the need to introduce a conceptual distinction between real and nominal measures of brand perception changes, as the latter can deviate substantially from the former due to changes in attribute meanings over time. Specifically, we develop a data-driven approach to dissociate real from nominal perception by accounting for changes in attribute meanings. We do so by leveraging time-aware natural language processing (NLP) models and brand tracking data covering 20 years between 2001 and 2020 to extract attribute meanings over time from contemporaneous longitudinal text corpora. We further present evidence supporting the validity of our decomposition using a combination of behavioral and NLP approaches. Taken together, this work expands the ability of researchers and practitioners to capture changes in brand perception over time and provides a theoretical foundation for understanding their managerial implications.
 
