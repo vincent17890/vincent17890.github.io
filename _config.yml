@@ -9,7 +9,7 @@ last_name: Chen
 contact_note: >
   
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  I am Vincent Chen, a PhD candidate in Behavioral Marketing at UC Berkeley. I study consumer cognition in dynamic environments.
 footer_text: >
   
 keywords: # add your own keywords or leave empty
@@ -62,9 +62,9 @@ max_width: 930px
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
 # see https://schema.org/docs/faq.html for more information
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
 serve_schema_org: false # Include Schema.org in the HTML head
-og_image: # The site-wide (default for all links) Open Graph preview image
+og_image: assets/img/prof_pic.jpg # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -85,8 +85,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Vincent Chen # blog_name will be displayed in your blog page
+blog_description: Behavioral Marketing PhD candidate at UC Berkeley.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
